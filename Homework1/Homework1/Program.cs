@@ -12,6 +12,7 @@ namespace Homework1
 
             Console.WriteLine("Result : " + banks.GetMoney("Dima",  180));
 
+            Console.ReadKey();
         }
     }
 }
