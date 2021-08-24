@@ -6,7 +6,13 @@ namespace Homework1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var banks = new Service();
+            banks.Bank.Add(new Person() { Name = "Dima", Balance = 190});
+            banks.Bank.Add(new Person() { Name = "Oli", Balance = 210 });
+
+            Console.WriteLine("Result : " + banks.GetMoney("Dima",  180));
+
+            Console.ReadKey();
         }
     }
 }

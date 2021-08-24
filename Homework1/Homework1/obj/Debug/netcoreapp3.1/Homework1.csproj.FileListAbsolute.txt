@@ -4,7 +4,6 @@ C:\CSharpStudy\CSharpLearn\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1
 C:\CSharpStudy\CSharpLearn\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
 C:\CSharpStudy\CSharpLearn\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.dll
 C:\CSharpStudy\CSharpLearn\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.pdb
-C:\CSharpStudy\CSharpLearn\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.AssemblyReference.cache
 C:\CSharpStudy\CSharpLearn\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.GeneratedMSBuildEditorConfig.editorconfig
 C:\CSharpStudy\CSharpLearn\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
 C:\CSharpStudy\CSharpLearn\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\CSharpStudy\CSharpLearn\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1
 C:\CSharpStudy\CSharpLearn\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.dll
 C:\CSharpStudy\CSharpLearn\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.pdb
 C:\CSharpStudy\CSharpLearn\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.genruntimeconfig.cache
+C:\CSharpStudy\CSharpLearn\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.AssemblyReference.cache
