@@ -1670,6 +1670,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Homework1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Homework1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Homework1.dll": {}
+        }
       }
     }
   },
@@ -5906,10 +5916,16 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Homework1/1.0.0": {
+      "type": "project",
+      "path": "../Homework1/Homework1.csproj",
+      "msbuildProject": "../Homework1/Homework1.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Homework1 >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "coverlet.collector >= 3.0.2",
       "xunit >= 2.4.1",
@@ -5947,7 +5963,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\CSharpStudy\\CSharpLearn\\Homework1\\Homework1\\Homework1.csproj": {
+              "projectPath": "C:\\CSharpStudy\\CSharpLearn\\Homework1\\Homework1\\Homework1.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

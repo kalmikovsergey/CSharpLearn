@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Homework1
 {
-    class Service : IService
+    public class Service : IService
     {
         public List<Person> Bank = new List<Person>();
         public decimal GetMoney(string name, decimal amount)

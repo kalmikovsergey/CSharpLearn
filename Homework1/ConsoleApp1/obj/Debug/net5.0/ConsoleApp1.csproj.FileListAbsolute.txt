@@ -1,0 +1,5 @@
+C:\CSharpStudy\CSharpLearn\Homework1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\CSharpStudy\CSharpLearn\Homework1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpStudy\CSharpLearn\Homework1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\CSharpStudy\CSharpLearn\Homework1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\CSharpStudy\CSharpLearn\Homework1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
