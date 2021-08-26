@@ -24,5 +24,20 @@ namespace Homework1
             }
             return returnAmount;
         }
+
+        public int GetPersonID(string name)
+        {
+            var id = 0;
+            foreach (Person person in Bank)
+            {
+                ++id;
+                if (person.Name == name)
+                {
+                    break;
+                }
+            }
+            return id;
+
+        }
     }
 }
