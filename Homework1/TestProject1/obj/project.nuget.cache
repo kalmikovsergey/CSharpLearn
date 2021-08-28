@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "twAyz7lqB7O1D2fJ7g6JvKt8hwSEa3FmL8abGTmhoT+iPlTIbNMqKoXHe7belE2jgfZGN9xZodyUYlxzp+dkcg==",
+  "dgSpecHash": "D5Fkm6vDosYNQXACQ/yvJ8wYL1BK7+dJHaMBJgkvp+24SBf6MQ1Qt3K6bgKcKHZV1eE936ECWPGLF6tzbJL/iQ==",
   "success": true,
   "projectFilePath": "C:\\CSharpStudy\\CSharpLearn\\Homework1\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Serg\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512",
     "C:\\Users\\Serg\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Serg\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Serg\\.nuget\\packages\\fluentassertions\\6.1.0\\fluentassertions.6.1.0.nupkg.sha512",
