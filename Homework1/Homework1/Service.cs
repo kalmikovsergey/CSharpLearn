@@ -4,10 +4,10 @@ using System.Text;
 
 namespace Homework1
 {
-    public class Service : IService
+    public  class Service : IService
     {
         public List<Person> Bank = new List<Person>();
-        public decimal GetMoney(string name, decimal amount)
+        public virtual decimal GetMoney(string name, decimal amount)
         {
             decimal returnAmount = 0;
            
@@ -23,6 +23,21 @@ namespace Homework1
                 }              
             }
             return returnAmount;
+        }
+
+        public int GetPersonID(string name)
+        {
+            var id = 0;
+            foreach (Person person in Bank)
+            {
+                ++id;
+                if (person.Name == name)
+                {
+                    break;
+                }
+            }
+            return id;
+
         }
     }
 }

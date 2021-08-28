@@ -7,6 +7,7 @@ namespace Homework1
     public interface IService
     {
          public decimal GetMoney(string name, decimal amount);
+         public int GetPersonID(string Name);
 
     }
 }
